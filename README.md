@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhietriyana
 - 👀 I’m interested in Data Analyst, Inventory, Purchasing
-- 🌱 I’m currently learning Power Automate, Pythn, Power Bi, Power Apps
+- 🌱 I’m currently learning Power Automate, Python, Power Bi, Power Apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
