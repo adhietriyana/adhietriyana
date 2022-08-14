@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adhietriyana
-- 👀 I’m interested in Dart Programming, Flutter Framework, Firebase database and no coode platform
-- 🌱 I’m currently learning Flutter , Dart and No Code Platform
+- 👀 I’m interested in Data Analyst, Inventory, Purchasing
+- 🌱 I’m currently learning Power Automate, Pythn, Power Bi, Power Apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
